@@ -1,2 +1,2 @@
-# prrework-study-guide
+# prework-study-guide
 Prework study guide for Cal Berkeley Boot Camp
